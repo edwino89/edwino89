@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwino89
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Python, Pytorch & Golang
+- 👀 I’m interested in Web and Machine Learning
+- 🌱 I’m currently learning Python, Mojo, Golang & Ziglang
 .
 
 <!---
