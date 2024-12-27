@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edwino89
-- 👀 I’m interested in Web and Machine Learning
-- 🌱 I’m currently learning Python, Golang and Others...
+- 👀 I’m interested in Web/Native Apps and Machine/Deep Learning
+- 🌱 I’m currently learning Python, Golang, TypeScript and Others...
 .
 
 <!---
